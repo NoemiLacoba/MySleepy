@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BDTodosCompuestos" targetNamespace="http://tempuri.org/BDTodosCompuestos.xsd" xmlns:mstns="http://tempuri.org/BDTodosCompuestos.xsd" xmlns="http://tempuri.org/BDTodosCompuestos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BDTodosCompuestos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="BDTodosCompuestos" msprop:Generator_UserDSName="BDTodosCompuestos">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PackArticulos" msprop:Generator_TableClassName="PackArticulosDataTable" msprop:Generator_TableVarName="tablePackArticulos" msprop:Generator_RowChangedName="PackArticulosRowChanged" msprop:Generator_TablePropName="PackArticulos" msprop:Generator_RowDeletingName="PackArticulosRowDeleting" msprop:Generator_RowChangingName="PackArticulosRowChanging" msprop:Generator_RowEvHandlerName="PackArticulosRowChangeEventHandler" msprop:Generator_RowDeletedName="PackArticulosRowDeleted" msprop:Generator_RowClassName="PackArticulosRow" msprop:Generator_UserTableName="PackArticulos" msprop:Generator_RowEvArgName="PackArticulosRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idarticulo" msprop:Generator_ColumnVarNameInTable="columnidarticulo" msprop:Generator_ColumnPropNameInRow="idarticulo" msprop:Generator_ColumnPropNameInTable="idarticuloColumn" msprop:Generator_UserColumnName="idarticulo" type="xs:string" />
+              <xs:element name="nombresimple" msprop:Generator_ColumnVarNameInTable="columnnombresimple" msprop:Generator_ColumnPropNameInRow="nombresimple" msprop:Generator_ColumnPropNameInTable="nombresimpleColumn" msprop:Generator_UserColumnName="nombresimple" type="xs:string" minOccurs="0" />
+              <xs:element name="nombrecompuesto" msprop:Generator_ColumnVarNameInTable="columnnombrecompuesto" msprop:Generator_ColumnPropNameInRow="nombrecompuesto" msprop:Generator_ColumnPropNameInTable="nombrecompuestoColumn" msprop:Generator_UserColumnName="nombrecompuesto" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="PackArticulosKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:PackArticulos" />
+      <xs:field xpath="mstns:idarticulo" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

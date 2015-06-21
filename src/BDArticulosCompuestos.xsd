@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BDArticulosCompuestos" targetNamespace="http://tempuri.org/BDArticulosCompuestos.xsd" xmlns:mstns="http://tempuri.org/BDArticulosCompuestos.xsd" xmlns="http://tempuri.org/BDArticulosCompuestos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BDArticulosCompuestos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="BDArticulosCompuestos" msprop:Generator_UserDSName="BDArticulosCompuestos">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ArticulosCompuestos" msprop:Generator_TableClassName="ArticulosCompuestosDataTable" msprop:Generator_TableVarName="tableArticulosCompuestos" msprop:Generator_RowChangedName="ArticulosCompuestosRowChanged" msprop:Generator_TablePropName="ArticulosCompuestos" msprop:Generator_RowDeletingName="ArticulosCompuestosRowDeleting" msprop:Generator_RowChangingName="ArticulosCompuestosRowChanging" msprop:Generator_RowEvHandlerName="ArticulosCompuestosRowChangeEventHandler" msprop:Generator_RowDeletedName="ArticulosCompuestosRowDeleted" msprop:Generator_RowClassName="ArticulosCompuestosRow" msprop:Generator_UserTableName="ArticulosCompuestos" msprop:Generator_RowEvArgName="ArticulosCompuestosRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idarticulo" msprop:Generator_ColumnVarNameInTable="columnidarticulo" msprop:Generator_ColumnPropNameInRow="idarticulo" msprop:Generator_ColumnPropNameInTable="idarticuloColumn" msprop:Generator_UserColumnName="idarticulo" type="xs:string" minOccurs="0" />
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="composicion" msprop:Generator_ColumnVarNameInTable="columncomposicion" msprop:Generator_ColumnPropNameInRow="composicion" msprop:Generator_ColumnPropNameInTable="composicionColumn" msprop:Generator_UserColumnName="composicion" type="xs:string" minOccurs="0" />
+              <xs:element name="medida" msprop:Generator_ColumnVarNameInTable="columnmedida" msprop:Generator_ColumnPropNameInRow="medida" msprop:Generator_ColumnPropNameInTable="medidaColumn" msprop:Generator_UserColumnName="medida" type="xs:string" minOccurs="0" />
+              <xs:element name="precio" msprop:Generator_ColumnVarNameInTable="columnprecio" msprop:Generator_ColumnPropNameInRow="precio" msprop:Generator_ColumnPropNameInTable="precioColumn" msprop:Generator_UserColumnName="precio" type="xs:string" minOccurs="0" />
+              <xs:element name="referencia" msprop:Generator_ColumnVarNameInTable="columnreferencia" msprop:Generator_ColumnPropNameInRow="referencia" msprop:Generator_ColumnPropNameInTable="referenciaColumn" msprop:Generator_UserColumnName="referencia" type="xs:string" minOccurs="0" />
+              <xs:element name="cantidad" msprop:Generator_ColumnVarNameInTable="columncantidad" msprop:Generator_ColumnPropNameInRow="cantidad" msprop:Generator_ColumnPropNameInTable="cantidadColumn" msprop:Generator_UserColumnName="cantidad" type="xs:string" minOccurs="0" />
+              <xs:element name="preciototal" msprop:Generator_ColumnVarNameInTable="columnpreciototal" msprop:Generator_ColumnPropNameInRow="preciototal" msprop:Generator_ColumnPropNameInTable="preciototalColumn" msprop:Generator_UserColumnName="preciototal" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Compuestos" msprop:Generator_TableClassName="CompuestosDataTable" msprop:Generator_TableVarName="tableCompuestos" msprop:Generator_RowChangedName="CompuestosRowChanged" msprop:Generator_TablePropName="Compuestos" msprop:Generator_RowDeletingName="CompuestosRowDeleting" msprop:Generator_RowChangingName="CompuestosRowChanging" msprop:Generator_RowEvHandlerName="CompuestosRowChangeEventHandler" msprop:Generator_RowDeletedName="CompuestosRowDeleted" msprop:Generator_RowClassName="CompuestosRow" msprop:Generator_UserTableName="Compuestos" msprop:Generator_RowEvArgName="CompuestosRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="precio" msprop:Generator_ColumnVarNameInTable="columnprecio" msprop:Generator_ColumnPropNameInRow="precio" msprop:Generator_ColumnPropNameInTable="precioColumn" msprop:Generator_UserColumnName="precio" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

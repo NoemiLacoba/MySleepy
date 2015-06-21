@@ -1,0 +1,44 @@
+ROOT#19/02/2015#Añadido#Factura añadida : 20150013##
+
+ROOT#19/02/2015#Añadido#Factura añadida : 20150014##
+
+ROOT#19/02/2015#Añadido#Factura añadida : 20150015##
+
+Raquel#19/02/2015#Añadido#Factura añadida : 20150017##
+
+Raquel#19/02/2015#Añadido#Factura añadida : 20150018##
+
+ROOT#19/02/2015#Añadido#Factura añadida :20150011##
+
+ROOT#19/02/2015#Añadido#Factura añadida :20150014##
+
+Raquel#19/02/2015#Añadido#Factura añadida :20150016##
+
+ROOT#19/02/2015#Borrado#Factura eliminada : 201500021##
+
+ROOT#19/02/2015#Borrado#Factura eliminada : 201500031##
+
+ROOT#19/02/2015#Borrado#Factura eliminada : 201500041##
+
+ROOT#19/02/2015#Borrado#Factura eliminada : 201500061##
+
+ROOT#19/02/2015#Borrado#Factura eliminada : 201500081##
+
+Raquel#19/02/2015#Borrado#Factura eliminada : 201500081##
+
+ROOT#19/02/2015#Borrado#Factura eliminada : 201500101##
+
+ROOT#19/02/2015#Borrado#Factura eliminada : 201500111##
+
+ROOT#19/02/2015#Borrado#Factura eliminada : 201500121##
+
+ROOT#19/02/2015#Borrado#Factura eliminada : 201500131##
+
+ROOT#19/02/2015#Borrado#Factura eliminada : 201500141##
+
+Raquel#19/02/2015#Borrado#Factura eliminada : 201500171##
+
+Raquel#19/02/2015#Modificado#Factura modificada : 20150004##
+
+ROOT#19/02/2015#Modificado#Factura modificada : 20150011##
+

@@ -1,0 +1,1562 @@
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\Examen\MaterialExamen\Ejercicio1\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+D:\INSTITUTOS\D.A.M. GRADO SUPERIOR\DAM 2\DESARROLLO DE INTERFACES\TEMAS\TEMA 1\PRACTICAS GRUPO\MYSLEEPY\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\obj\Debug\Ventanas.AddArticulo.resources
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\obj\Debug\Ventanas.AddCliente.resources
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\obj\Debug\Ventanas.AddUsuario.resources
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\obj\Debug\Ventanas.Pedido.resources
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\Luis\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.ModificarUsuario.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticulo.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_ADDClientes\MySleepy\MySleepy\obj\Debug\MySleepy.Pedidos.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticulo.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.ModificarUsuario.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.Pedidos.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo hasta 26-11\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticulo.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Norman\Desktop\MySleepy_ParteLuis\MySleepy_Luis Completo\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Norman\Desktop\MySleepy_ParteLuis\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Norman\Desktop\MySleepy_ParteLuis\MySleepy_Luis Completo\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\MySleepy_Carlos\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticulo.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Noemi\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticulo.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedor.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedor.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy_Luis\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedor.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+d:\MIS DOCUMENTOS PC\ESCRITORIO\My_SleepyUnido\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedor.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\ultimo\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Norman\Desktop\trabajo usado en la exposicion\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\final\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\trabajoFinal\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Norman\Desktop\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Norman\Desktop\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Norman\Desktop\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Norman\Desktop\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Norman\Desktop\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Norman\Desktop\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Norman\Desktop\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Norman\Desktop\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.Salidas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Desktop\MySleepy1.0.5\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.Pendientes.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.Salidas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.8\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.Pendientes.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.Salidas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.9\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.Pendientes.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.Salidas.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.0.10\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.Pendientes.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.Salidas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.0.11\MySleepy1.0.11\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Pendientes.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Salidas.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy1.1\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Pendientes.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Salidas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.1.1\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Rachel_hp\Desktop\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Rachel_hp\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Rachel_hp\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.Pendientes.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.Salidas.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy.1.5\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.Pendientes.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.Salidas.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Norman\Desktop\MySleepy.1.5.1\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.Pendientes.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.Salidas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy.1.5.2\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.Pendientes.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.Salidas.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\Raquel\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.Deudas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.Entradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.Pendientes.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.Salidas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.Validacion.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy1.5.3\MySleepy1.5.3\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Caja.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\bin\Debug\MySleepy.exe.config
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\bin\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\bin\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\bin\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\bin\Debug\BCrypt.Net.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\bin\Debug\BCrypt.Net.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\bin\Debug\BCrypt.Net.xml
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.Caja.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.Deudas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.Pendientes.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.Salidas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy2.0.1\MySleepy\obj\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.Caja.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.Facturas.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.GestionProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirFactura.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\Proyecto\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.Caja.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.Facturas.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.GestionProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirFactura.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPedido.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticuloFactura.resources
+C:\Users\Noemi\Desktop\MySleepy.3.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddFactura.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticuloFactura.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddFactura.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Caja.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Facturas.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.GestionProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirFactura.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPedido.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy.3.1.1\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticuloFactura.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.AddFactura.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.Caja.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.Facturas.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.GestionProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirFactura.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPedido.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticuloFactura.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddFactura.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.Caja.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.Facturas.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.GestionProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirFactura.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPedido.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy3.5.1\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticuloFactura.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddFactura.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.Caja.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.Facturas.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.GestionProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirFactura.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPedido.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV3\MySleepy3.5.2\MySleepy3.5.2\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticuloFactura.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddFactura.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosTotales.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Caja.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Facturas.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.GestionProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirFactura.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPedido.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosCompuestos.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ModificarStock.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Stock.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirArticulosSimples.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirCompuestos.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosSimples.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosCompuestos.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticuloFactura.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddFactura.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosCompuestos.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosTotales.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Facturas.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.GestionProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirArticulosSimples.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirCompuestos.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirFactura.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosCompuestos.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosSimples.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPedido.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ModificarStock.resources
+C:\Users\Noemi\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Stock.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticuloFactura.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddFactura.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosCompuestos.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosTotales.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Caja.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Facturas.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.GestionProveedor.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirArticulosSimples.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirCompuestos.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirFactura.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirProveedor.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosCompuestos.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosSimples.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPedido.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ModificarStock.resources
+C:\Users\Norman\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Stock.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirStock.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Javier\Desktop\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Javier\Desktop\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Javier\Desktop\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Javier\Desktop\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Javier\Desktop\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Javier\Desktop\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Javier\Desktop\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticuloFactura.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddFactura.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosCompuestos.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosTotales.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Caja.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Facturas.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.GestionProveedor.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirArticulosSimples.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirCompuestos.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirFactura.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirProveedor.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirStock.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosCompuestos.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosSimples.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPedido.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.ModificarStock.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.Stock.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Javier\Desktop\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticuloFactura.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddFactura.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosCompuestos.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosTotales.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Caja.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Facturas.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.GestionProveedor.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirArticulosSimples.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirCompuestos.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirFactura.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirProveedor.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirStock.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosCompuestos.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosSimples.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPedido.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ModificarStock.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Stock.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+G:\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.RestaurarStock.resources
+E:\DAM2\Desarrollo de Interfaces\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.RestaurarStock.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticuloFactura.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddFactura.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosCompuestos.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosTotales.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Caja.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Facturas.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.GestionProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirArticulosSimples.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirCompuestos.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirFactura.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirProveedor.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirStock.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosCompuestos.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosSimples.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPedido.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.ModificarStock.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.RestaurarStock.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.Stock.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+E:\DAM2\Desarrollo de Interfaces\2ª Evaluación\ProyectoV4\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\bin\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\bin\Debug\es\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\bin\Debug\BCrypt.Net.dll
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\bin\Debug\BCrypt.Net.pdb
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\bin\Debug\BCrypt.Net.xml
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.AccesoForm.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.AddArticuloFactura.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.AddCliente.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.AddEntradas.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.AddFactura.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.AddNuevoArticulo.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.AddPedido.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.AddProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.AddSalidas.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.AddUsuario.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosCompuestos.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosForm.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.ArticulosTotales.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.Caja.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.ClientesForm.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.Facturas.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.GestionProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.HistorialForm.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirArticulosSimples.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirCompuestos.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirFactura.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirProveedor.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirStock.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosCompuestos.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.ImprimirTodosSimples.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarDeuda.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPedido.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.LiquidarPendiente.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.PedidosForm.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.Proveedores.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.ModificarStock.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.RestaurarStock.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.Stock.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.UsuariosForm.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es-AR.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.PrincipalForm.es.resources
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\es-AR\MySleepy.resources.dll
+C:\Users\Noemi\Desktop\MySleepy_V4_Final\MySleepy\MySleepy\obj\Debug\es\MySleepy.resources.dll

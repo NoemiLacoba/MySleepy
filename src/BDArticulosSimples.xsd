@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BDArticulos" targetNamespace="http://tempuri.org/BDArticulos.xsd" xmlns:mstns="http://tempuri.org/BDArticulos.xsd" xmlns="http://tempuri.org/BDArticulos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BDArticulos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="BDArticulos" msprop:Generator_UserDSName="BDArticulos">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ArticulosSimples" msprop:Generator_TableClassName="ArticulosSimplesDataTable" msprop:Generator_TableVarName="tableArticulosSimples" msprop:Generator_RowChangedName="ArticulosSimplesRowChanged" msprop:Generator_TablePropName="ArticulosSimples" msprop:Generator_RowDeletingName="ArticulosSimplesRowDeleting" msprop:Generator_RowChangingName="ArticulosSimplesRowChanging" msprop:Generator_RowEvHandlerName="ArticulosSimplesRowChangeEventHandler" msprop:Generator_RowDeletedName="ArticulosSimplesRowDeleted" msprop:Generator_RowClassName="ArticulosSimplesRow" msprop:Generator_UserTableName="ArticulosSimples" msprop:Generator_RowEvArgName="ArticulosSimplesRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idarticulo" msprop:Generator_ColumnVarNameInTable="columnidarticulo" msprop:Generator_ColumnPropNameInRow="idarticulo" msprop:Generator_ColumnPropNameInTable="idarticuloColumn" msprop:Generator_UserColumnName="idarticulo" type="xs:string" minOccurs="0" />
+              <xs:element name="composicion" msprop:Generator_ColumnVarNameInTable="columncomposicion" msprop:Generator_ColumnPropNameInRow="composicion" msprop:Generator_ColumnPropNameInTable="composicionColumn" msprop:Generator_UserColumnName="composicion" type="xs:string" minOccurs="0" />
+              <xs:element name="medida" msprop:Generator_ColumnVarNameInTable="columnmedida" msprop:Generator_ColumnPropNameInRow="medida" msprop:Generator_ColumnPropNameInTable="medidaColumn" msprop:Generator_UserColumnName="medida" type="xs:string" minOccurs="0" />
+              <xs:element name="precio" msprop:Generator_ColumnVarNameInTable="columnprecio" msprop:Generator_ColumnPropNameInRow="precio" msprop:Generator_ColumnPropNameInTable="precioColumn" msprop:Generator_UserColumnName="precio" type="xs:string" minOccurs="0" />
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="referencia" msprop:Generator_ColumnVarNameInTable="columnreferencia" msprop:Generator_ColumnPropNameInRow="referencia" msprop:Generator_ColumnPropNameInTable="referenciaColumn" msprop:Generator_UserColumnName="referencia" type="xs:string" minOccurs="0" />
+              <xs:element name="stockideal" msprop:Generator_ColumnVarNameInTable="columnstockideal" msprop:Generator_ColumnPropNameInRow="stockideal" msprop:Generator_ColumnPropNameInTable="stockidealColumn" msprop:Generator_UserColumnName="stockideal" type="xs:string" minOccurs="0" />
+              <xs:element name="stockreal" msprop:Generator_ColumnVarNameInTable="columnstockreal" msprop:Generator_ColumnPropNameInRow="stockreal" msprop:Generator_ColumnPropNameInTable="stockrealColumn" msprop:Generator_UserColumnName="stockreal" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
